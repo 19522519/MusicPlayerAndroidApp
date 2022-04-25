@@ -32,6 +32,7 @@
             android:layout_alignParentEnd="true"
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
+            android:layout_marginTop="5dp"
             android:layout_toEndOf="@+id/imgsong"
             android:padding="6dp"
             android:textColor="#FFF"
