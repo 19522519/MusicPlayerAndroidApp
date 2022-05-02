@@ -3,12 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/drawable/ic_music.xml" value="0.129" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/drawable/ic_next.xml" value="0.129" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/drawable/ic_pause.xml" value="0.129" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/drawable/list_bg.xml" value="0.129" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/layout/activity_player.xml" value="0.3625" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MusicPlayerAndroidApp/app/src/main/res/layout/list_item.xml" value="0.3569230769230769" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/drawable/ic_music.xml" value="0.1895" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/drawable/ic_play.xml" value="0.187" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/drawable/list_bg.xml" value="0.1" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.3625" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.2453125" />
         <entry key="..\:/Users/Tan Viet/Desktop/Code/AndroidStudio/MyMusicPlayer/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/Temp/MusicPlayerAndroidApp/app/src/main/res/drawable/ic_next.xml" value="0.261" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/Temp/MusicPlayerAndroidApp/app/src/main/res/drawable/ic_pause.xml" value="0.261" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/Temp/MusicPlayerAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/Temp/MusicPlayerAndroidApp/app/src/main/res/layout/activity_player.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/Tan Viet/Desktop/Code/Temp/MusicPlayerAndroidApp/app/src/main/res/layout/list_item.xml" value="0.3569230769230769" />
       </map>
     </option>
   </component>
